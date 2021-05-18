@@ -13,7 +13,7 @@ int main(int argc, char* argv[]){
         }
     }else{
         ImageUpdater img1("/home/s13/RPE/OpenWRT_Black/update.json");
-//        cout << "sha256 " << (img1.checkImageFile() ? " OK " : "FAIL") << endl;
+        cout << "sha256 " << (img1.checkImageFile() ? " OK " : "FAIL") << endl;
         img1.getRootPart();
     }
     return 0;
