@@ -33,6 +33,40 @@
       "message": "test test",
       "revId": "91eacf40f0a313cd19e073888732a21e2f729ecd",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "492a6207_463bfc1c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019170
+      },
+      "writtenOn": "2021-05-19T09:20:47Z",
+      "side": 1,
+      "message": "looks good",
+      "revId": "91eacf40f0a313cd19e073888732a21e2f729ecd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0f8116e9_7c92acc9",
+        "filename": "project/main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1019170
+      },
+      "writtenOn": "2021-05-19T09:20:47Z",
+      "side": 1,
+      "message": "test comment",
+      "revId": "91eacf40f0a313cd19e073888732a21e2f729ecd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
